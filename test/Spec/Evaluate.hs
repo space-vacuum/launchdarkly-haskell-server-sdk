@@ -17,7 +17,6 @@ import           LaunchDarkly.Server.User.Internal
 import           LaunchDarkly.Server.Features
 import           LaunchDarkly.Server.Operators
 import           LaunchDarkly.Server.Details
-import           LaunchDarkly.Server.Store.Internal
 import           LaunchDarkly.Server.Evaluate
 import           LaunchDarkly.Server.Config
 

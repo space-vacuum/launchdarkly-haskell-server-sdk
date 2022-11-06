@@ -7,7 +7,6 @@ import Data.Scientific (toRealFloat, fromFloatDigits, floatingOrInteger)
 import Data.IORef
 import Data.Maybe
 import Data.Text
-import Data.Text (Text)
 import GHC.Generics (Generic)
 import Network.HTTP.Types
 import Types

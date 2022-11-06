@@ -11,7 +11,6 @@ import qualified Spec.Redis
 import qualified Spec.Segment
 import qualified Spec.Store
 import qualified Spec.StoreInterface
-import qualified Spec.Redis
 import qualified Spec.DataSource
 import qualified Spec.Integrations.FileData
 import qualified Spec.Streaming
